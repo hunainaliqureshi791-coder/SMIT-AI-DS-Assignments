@@ -1,6 +1,6 @@
+# Student Attendence (P/A)
 This is a simple Python program to take student attendance.
 First it asks for student name, then attendance (P/A).
-
 
 
 # Bank Account Management System (Python - OOP)
