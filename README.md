@@ -25,8 +25,8 @@ Mobile packages subscribe kar sakta hai
 
 Yeh system real-world telecom apps (JazzWorld, MyTelenor) ki backend logic par based hai.
 
-⚡ Electricity Billing System (Slab Based)
-📌 Project Description
+# Electricity Billing System (Slab Based)
+ Project Description            
 
 This project is a Python-based Electricity Billing System that calculates the monthly electricity bill using a slab (tiered pricing) system.
 
