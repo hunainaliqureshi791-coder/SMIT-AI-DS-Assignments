@@ -13,7 +13,7 @@ First it asks for student name, then attendance (P/A).
 
 This project is a simple **Bank Account Management System** built using **Object-Oriented Programming (OOP)** concepts in Python.
 
-#📱 MOBILE BALANCE & PACKAGE SIMULATOR
+# MOBILE BALANCE & PACKAGE SIMULATOR
 
 Yeh Python program ek mobile telecom system ko simulate karta hai jisme user:
 
