@@ -31,3 +31,11 @@ Yeh system real-world telecom apps (JazzWorld, MyTelenor) ki backend logic par b
 This project is a Python-based Electricity Billing System that calculates the monthly electricity bill using a slab (tiered pricing) system.
 
 In a slab system, electricity units are divided into different ranges, and each range has its own price per unit. This method is commonly used by real-world electricity utility companies.
+
+
+# Simple Bus Ticket Booking System
+ Project 
+
+This project is a Python-based Bus Ticket Booking System that simulates a real-life kiosk machine at a bus terminal.
+
+The system allows users to select a destination, enter passenger details, book seats, and receive a ticket summary. It also ensures that overbooking is not allowed by maintaining a fixed number of available seats.
